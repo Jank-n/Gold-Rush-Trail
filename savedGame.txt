@@ -1,0 +1,12 @@
+
+ Level: 3
+
+ Energy: 30
+
+ Money: 10
+
+ Ammo: 4
+
+ Wagon Parts: 1
+
+ Furs: 0
